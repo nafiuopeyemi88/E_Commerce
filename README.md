@@ -25,8 +25,7 @@ Using the attributes of the data, I intend to use combination of tables, charts 
 * Most ordered products
 
 Summary and Conclusion
-This project demonstrates the significance and impact data has on making profitable decisions. A company with this data can make financial decisions based on these results such as increasing their presence in the United Kingdom and Netherlands, as a result of revenue made from the countries.
-Also increasing marking targets to countries such as Saudi Arabia and Lebanon, to increase orders made from them. Customers with the highest amount of orders can be rewarded with coupons and gifts. 
-These and lots more can increase revenue and reduce things such as customer churn thereby increasing profit.
+This project demonstrates the significance and impact data has on making profitable decisions. 
+A company with this data can make financial decisions based on these results such as increasing their presence in the United Kingdom and Netherlands, as a result of revenue made from the countries.Also increasing marking targets to countries such as Saudi Arabia and Lebanon, to increase orders made from them. Customers with the highest amount of orders can be rewarded with coupons and gifts. These and lots more can increase revenue and reduce things such as customer churn thereby increasing profit.
 
 
